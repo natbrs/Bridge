@@ -1,5 +1,6 @@
 package remotes;
 
+// Interface Remote que define os métodos básicos de um controle remoto
 public interface Remote {
     void power();
 
